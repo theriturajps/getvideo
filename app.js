@@ -1,7 +1,5 @@
 /*
 getVideo - v2.0.0
-Sameera Damith
-damith.sameera1@gmail.com
 */
 
 var createError = require('http-errors');
