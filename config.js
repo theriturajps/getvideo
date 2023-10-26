@@ -11,7 +11,7 @@ var config = {
   errorTitle : "Page not Found (404) - GetVideo",
 
   //Application URL
-  url : "http://example.com",
+  url : "http://getvideo.vercel.app",
 
   //Application Description
   description : "Free online YouTube videos downloader, audio quickly in 1080p, 720p, MP4, 3GP, and more.",
